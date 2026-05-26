@@ -15,7 +15,7 @@ All conceptual designs, structural frameworks, architecture diagrams, and proces
 
 A live, functional proof-of-concept validating the interface layout and core processing logic is available online:
 
-* **Live Demo:** [View Prototype on Replit][(https://replit.com/@your-username/your-repl-name)](https://3d07d7ef-989d-4308-89d8-9ff6d2296086-00-1yexjszin4wwz.pike.replit.dev/)
+* **Live Demo:** [View Prototype on Replit][(https://replit.com/@himaanishri01/Intellinews)](https://3d07d7ef-989d-4308-89d8-9ff6d2296086-00-1yexjszin4wwz.pike.replit.dev/)
 
 
 ## System Overview & Architecture
