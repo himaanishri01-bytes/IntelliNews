@@ -2,7 +2,6 @@
 
 IntelliNews is a proprietary conceptual architecture and system design for an intelligent, automated news aggregation and analysis platform. This repository documents the intellectual framework, systemic data pipelines, and foundational logic designed to filter digital noise, categorize articles dynamically, and deliver high-density text summaries.
 
----
 
 ## Intellectual Property & Ownership
 
@@ -11,15 +10,13 @@ All conceptual designs, structural frameworks, architecture diagrams, and proces
 * **System Architect & Owner:** Himaani Shri
 * **Usage Rights:** The contents of this repository are provided for review, portfolio evaluation, and verification purposes. Unauthorized replication, distribution, or commercial exploitation of this system design without explicit written consent from the owner is strictly prohibited.
 
----
 
 ## Interactive Prototype
 
 A live, functional proof-of-concept validating the interface layout and core processing logic is available online:
 
-* **Live Demo:** [View Prototype on Replit]((https://3d07d7ef-989d-4308-89d8-9ff6d2296086-00-1yexjszin4wwz.pike.replit.dev/))
+* **Live Demo:** [View Prototype on Replit][(https://replit.com/@your-username/your-repl-name)](https://3d07d7ef-989d-4308-89d8-9ff6d2296086-00-1yexjszin4wwz.pike.replit.dev/)
 
----
 
 ## System Overview & Architecture
 
@@ -39,8 +36,7 @@ The IntelliNews architecture is structured around a four-stage sequential data p
 
 4. **Presentation Layer (User Interface):**
    * A minimal, text-optimized dashboard designed to serve processed articles cleanly without layout distractions.
-
----
+   
 
 ## Core System Capabilities
 
@@ -48,7 +44,7 @@ The IntelliNews architecture is structured around a four-stage sequential data p
 * **Semantic Summarization:** Systemic extraction of central insights to maximize information delivery while minimizing reader fatigue.
 * **Dynamic Taxonomy:** Automated categorization that adapts to shifting topical keywords across different domains.
 
----
+
 
 ## Contributors & Acknowledgments
 
